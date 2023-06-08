@@ -6,11 +6,15 @@ There are 3 models.articles.magazine and author
 
 
  # Topics
-Classes and Instances
-Class and Instance Methods
-Variable Scope
-Object Relationships
-Arrays and Array Methods
+Classes and Instances.
+
+Class and Instance Methods.
+
+Variable Scope.
+
+Object Relationships.
+
+Arrays and Array Methods.
 
 # Project Setup
 Once you have the plan in place for the application you want to build take the following steps:
